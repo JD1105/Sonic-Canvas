@@ -20,7 +20,7 @@
     "@tailwindcss/vite": "^4.1.16",
     "@types/three": "^0.181.0",
     "dat.gui": "^0.7.9",
-    "esbuild-wasm": "^0.28.0",
+    "esbuild-wasm": "^0.24.2",
     "framer-motion": "^12.23.24",
     "gsap": "^3.13.0",
     "howler": "^2.2.4",
@@ -51,8 +51,5 @@
   },
   "engines": {
     "node": "20"
-  },
-  "overrides": {
-    "esbuild-wasm": "0.24.2"
   }
 }
