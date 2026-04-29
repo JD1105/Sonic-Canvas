@@ -1,0 +1,11 @@
+/* Option 1: Orbitron for headlines only (recommended) */
+.font-futuristic {
+  font-family: "Orbitron", sans-serif;
+  font-weight: 700; /* or 900 for max impact */
+  letter-spacing: 0.08em; /* wide spacing = cyber feel */
+}
+
+/* Option 2: Body text stays clean */
+body {
+  font-family: "Inter", "system-ui", sans-serif; /* fallback to modern sans */
+}
