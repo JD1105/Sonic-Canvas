@@ -50,6 +50,6 @@
     "node": "20.x"
   },
   "optionalDependencies": {
-    "@esbuild/linux-x64": "^0.28.0"
+    "@esbuild/linux-x64": "0.20.2"
   }
 }
