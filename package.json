@@ -53,6 +53,6 @@
     "node": "20"
   },
   "overrides": {
-    "esbuild": "0.24.2"
+    "esbuild-wasm": "0.24.2"
   }
 }
