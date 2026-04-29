@@ -48,5 +48,8 @@
   },
   "engines": {
     "node": "20.x"
+  },
+  "optionalDependencies": {
+    "@esbuild/linux-x64": "^0.28.0"
   }
 }
